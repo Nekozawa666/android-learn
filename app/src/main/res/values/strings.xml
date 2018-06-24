@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TRY1</string>
+    <string name="circleOfLife">Activities Circle of Life</string>
+    <string name="onCreate">-onCreate</string>
+</resources>
